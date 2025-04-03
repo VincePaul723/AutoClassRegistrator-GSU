@@ -11,10 +11,10 @@ Steps
 3. Download the AutoClassReg-GUIV.exe file and run it. (The program will only open/run if the Chrome Debug Mode is open)
 
 4. Input all the required information prompted by the program. (Refer to the test video and picture for examples)
-   - Tip: Make sure you leave a space between each CRN you input; the program will not input them correctly otherwise.
+   - Tip: **Make sure you leave a space between each CRN you input; the program will not input them correctly otherwise.** Also, try to give the school’s system a minute or two of grace, (i.e. Have the program run like 2 minutes after 8am) the window might not open EXCATLLY at 8:00am- better safe than sorry.
 
 5. Once you've done all the steps above, hit submit and you're good to go!
 
-**WARNING**: Do **NOT** close your laptop/put it to sleep. The program will keep your computer awake until it has completed its task! 
+**WARNING**: Do **NOT** close your laptop/put it to sleep. The program will keep your computer awake until it has completed its task! Also, **DO NOT** open anymore tabs in the Chrome Debug window other than the registration tab, I believe there’s a bug where the program will try to access a different one. I will address the tab bug in the IOS update down the line, but this program is functional as it stands!
 
 Enjoy!
