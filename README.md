@@ -11,7 +11,11 @@ Steps
 3. Download the [AutoClassReg-GUIV.exe](AutoClassReg-GUIV.exe) file and run it. (The program will only open/run if the Chrome Debug Mode is open)
 
 4. Input all the required information prompted by the program. (Refer to [ExampleUsage-Video](ExampleUsage-Video.mkv) and [FormatExample](FormatExample.png) for examples)
+<<<<<<< HEAD
    - Tip: **Make sure you leave a space between each CRN you input; the program will not input them correctly otherwise. Everything but the season must be a numerical value. (Ex: Month:8, Day:4, etc.)** Try to give the school’s system a minute or two of grace (i.e., have the program run like 2 minutes after 9 am), the window might not open EXACTLY at 9:00 am- better safe than sorry.
+=======
+   - Tip: **Make sure you leave a space between each CRN you input; the program will not input them correctly otherwise. Everything but the season must be a numerical value. (Ex: Month:8, Day:4, etc.)** Try to give the school’s system a minute or two of grace (i.e., have the program run like 2 minutes after 8 am), the window might not open EXACTLY at 8:00 am- better safe than sorry.
+>>>>>>> ab515413112094417d31bc50f9b75a18dba5c46d
 
 5. Once you've done all the steps above, hit submit, and you're good to go!
 
